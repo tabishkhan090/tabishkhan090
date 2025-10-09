@@ -9,12 +9,6 @@
   </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/adilshaikh4064" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/whoisasx" target="_blank">
-      <img src="https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white" alt="X" />
-    </a>
     <a href="https://whoisasx.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-whoisasx.vercel.app-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
