@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    Hey there, I'm Adil Shaikh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+    Hey there, I'm MD Tabish Raza Khan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
   </h1>
 
   <a href="https://git.io/typing-svg">
@@ -9,10 +9,10 @@
   </a>
 
   <p>
-    <a href="https://whoisasx.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-whoisasx.vercel.app-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <a href="https://github.com/tabishkhan090" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-github.com/tabishkhan090-000?style=flat&logo=github&logoColor=white" alt="Portfolio" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=whoisasx&label=Profile%20views&color=d4b3df&style=flat-square" alt="whoisasx" />
+    <img src="https://komarev.com/ghpvc/?username=tabishkhan090&label=Profile%20views&color=d4b3df&style=flat-square" alt="tabishkhan090" />
   </p>
 
 </div>
@@ -23,15 +23,15 @@
 
 I'm passionate about building fast, elegant, and purposeful web apps. I love diving into new tech, connecting ideas, and solving real-world problems.
 
-- 🚀 Currently building **[Betteruptime](https://github.com/whoisasx/betteruptime)** — Real-Time Observability and Monitoring Platform.
+- 🚀 Currently building **[Betteruptime](https://github.com/tabishkhan090/betteruptime)** — Real-Time Observability and Monitoring Platform.
 - 🧠 I enjoy solving complex problems, shipping products fast, and designing thoughtful systems.
 - 🤝 Open to collaborations on **Web3 tools**, **infra**, or **DevOps** projects.
-- 📫 You can reach me at: **[adil.business4064@gmail.com](mailto:adil.business4064@gmail.com)**
+- 📫 You can reach me at: **[mdk.ug21.cs@nitp.ac.in](mailto:mdk.ug21.cs@nitp.ac.in)**
 
 <p align="center">Try this in your terminal:</p>
 
 ```bash
-npx whoisasx
+npx tabishkhan090
 ```
 
 ---
@@ -72,17 +72,17 @@ npx whoisasx
 
 ### 📊 GitHub Stats
 
-![Adil's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=whoisasx&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoisasx&layout=compact&theme=tokyonight&hide_border=true)
+![Tabish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tabishkhan090&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tabishkhan090&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whoisasx&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tabishkhan090&theme=tokyonight)
 
 ---
 
 ### Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/adilshaikh4064) | [X](https://x.com/whoisasx) | [Portfolio](https://whoisasx.vercel.app/)
+[GitHub](https://github.com/tabishkhan090)
 
 ---
 
-> “Code is just structured thought. I’m learning to think better.” — Adil Shaikh
+> “Code is just structured thought. I’m learning to think better.” — MD Tabish Raza Khan
