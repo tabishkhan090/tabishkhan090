@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    Hey there, I'm MD Tabish Raza Khan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+    Hey there, I'm MD Tabish <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
   </h1>
 
   <a href="https://git.io/typing-svg">
